@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @staroma
-- 👀 I’m interested in Bioinformatics and Programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on bio-related computational modelling or machine learning projects.
-- 📫 How to reach me lolwhatandwhy2@gmail.com
+- 👋 Hi, I’m Subash aka @staroma.
+- 👀 My interest lies in the intersection of remote sensing and foerst ecology.
+- 🌱 I’m currently upgrading my hyperspectral data skills in R.
+- 💞️ I'm open to the possibilities of collaborating in working with remote sensing data for ecological research.
+- 📫 How to reach me spsutara002@gmail.com
 
 <!---
 staroma/staroma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
