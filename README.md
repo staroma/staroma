@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subash aka @staroma.
 - 👀 My interest lies in the intersection of remote sensing and foerst ecology.
-- 🌱 I’m currently upgrading my hyperspectral data skills in R.
+- 🌱 I’m currently upgrading my hyperspectral data skills in R and getting hands-on experience with Python.
 - 💞️ I'm open to the possibilities of collaborating in working with remote sensing data for ecological research.
 - 📫 How to reach me spsutara002@gmail.com
 
